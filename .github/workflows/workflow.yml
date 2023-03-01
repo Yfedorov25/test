@@ -3,8 +3,8 @@ on:
   push:
     branches:
     - master
-    # paths:
-    # - 'hello/**'
+    paths:
+    - 'test-1.txt'
 
 jobs:
   test:
